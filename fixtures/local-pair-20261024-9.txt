@@ -1,0 +1,2 @@
+Controlled Issue.fund local-only paired-email acceptance fixture for issue #9.
+No public-chain transaction or real funds. This file is inert test data.
